@@ -45,5 +45,3 @@ plotly(fig_trends)
 
 
 text("**Explore salary trends, demand for AI skills, and job openings dynamically!**")
-
-prswld-08229302-b157-45b1-823a-4e02144a5dcb
